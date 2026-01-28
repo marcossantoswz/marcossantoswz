@@ -2,7 +2,6 @@
 
 Estudante de **Ciência da Computação na UFMG**  
 Estagiário na **Seção de Informática do ICB**  
-Buscando oportunidade de **estágio na área de tecnologia**
 
 
 ---
